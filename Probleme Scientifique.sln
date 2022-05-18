@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probleme Scientifique", "Probleme Scientifique.csproj", "{B428792C-5574-439F-B99D-A0DCB777CB60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_Unitaires_PSI", "..\Tests_Unitaires_PSI\Tests_Unitaires_PSI.csproj", "{CCD4FFBD-20C7-421F-8730-293B173B7EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B428792C-5574-439F-B99D-A0DCB777CB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B428792C-5574-439F-B99D-A0DCB777CB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B428792C-5574-439F-B99D-A0DCB777CB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B428792C-5574-439F-B99D-A0DCB777CB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD4FFBD-20C7-421F-8730-293B173B7EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD4FFBD-20C7-421F-8730-293B173B7EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD4FFBD-20C7-421F-8730-293B173B7EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD4FFBD-20C7-421F-8730-293B173B7EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2557B89-A4C3-48D5-BDD2-4C6215F1CE19}
+	EndGlobalSection
+EndGlobal

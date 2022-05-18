@@ -1,0 +1,14 @@
+C:\Users\Enzo\source\repos\Probleme Scientifique\bin\Debug\Probleme Scientifique.exe.config
+C:\Users\Enzo\source\repos\Probleme Scientifique\bin\Debug\Probleme Scientifique.exe
+C:\Users\Enzo\source\repos\Probleme Scientifique\bin\Debug\Probleme Scientifique.pdb
+C:\Users\Enzo\source\repos\Probleme Scientifique\obj\Debug\Probleme Scientifique.csprojAssemblyReference.cache
+C:\Users\Enzo\source\repos\Probleme Scientifique\obj\Debug\Probleme Scientifique.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\Probleme Scientifique\obj\Debug\Probleme Scientifique.exe
+C:\Users\Enzo\source\repos\Probleme Scientifique\obj\Debug\Probleme Scientifique.pdb
+C:\Users\Enzo\Desktop\Probleme Scientifique\bin\Debug\Probleme Scientifique.exe.config
+C:\Users\Enzo\Desktop\Probleme Scientifique\bin\Debug\Probleme Scientifique.exe
+C:\Users\Enzo\Desktop\Probleme Scientifique\bin\Debug\Probleme Scientifique.pdb
+C:\Users\Enzo\Desktop\Probleme Scientifique\obj\Debug\Probleme Scientifique.csprojAssemblyReference.cache
+C:\Users\Enzo\Desktop\Probleme Scientifique\obj\Debug\Probleme Scientifique.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\Probleme Scientifique\obj\Debug\Probleme Scientifique.exe
+C:\Users\Enzo\Desktop\Probleme Scientifique\obj\Debug\Probleme Scientifique.pdb
